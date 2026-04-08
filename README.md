@@ -49,8 +49,7 @@ Online-Quiz-GUI/
 │   ├── icons/
 │── README.md
 ⚙️ How to Run
-# Clone repository
-git clone https://github.com/your-username/online-quiz-gui.git
+
 
 # Open project
 cd online-quiz-gui
